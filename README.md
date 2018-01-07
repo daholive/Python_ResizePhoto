@@ -1,9 +1,6 @@
 Resize Photos Challenge - Solução para o Algoritmo
 ================================
 
-.. image:: https://travis-ci.org/felipeanchieta/resize-photos.svg?branch=master
-    :target: https://travis-ci.org/felipeanchieta/resize-photos
-
 O Problema
 -----------
 
